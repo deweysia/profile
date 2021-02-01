@@ -22,5 +22,17 @@ export default Vue.extend({
 </script>
 
 <style scoped>
-
+a {
+  display: inline-block;
+}
+a:after {
+  content: "";
+  display: block;
+  border-bottom: 2px solid #4299e1;
+  width: 0;
+  transition: 0.5s ease;
+}
+a:hover:after {
+  width: 100%;
+}
 </style>
