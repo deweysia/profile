@@ -19,7 +19,7 @@ export default Vue.extend({
       {name: 'About Me', link:'/'},
       {name: 'Work', link:'/work'},
       {name: 'Experience', link:'/experience'},
-      {name: 'Skills', link:'#'},
+      {name: 'Skills', link:'/skills'},
       {name: 'Blog', link:'#'}]
     }
   }
