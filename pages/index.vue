@@ -2,14 +2,10 @@
   <div>
     <div class="mb-6">
       <h2 class="font-semibold text-xl text-gray-900">
-        ChromeExtensionKit
+        <!-- ChromeExtensionKit -->
       </h2>
       <p class="text-justify">
-        I'm a motivated full-stack engineer who has experience building and
-        scaling web applications and services in various domains. I'm also
-        passionate about open-source contributions, working in high impact
-        environments, and helping growing development teams build great
-        products.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta temporibus nisi tempora quis fugit nihil a, tempore voluptatum, ab perferendis sapiente, vel maxime necessitatibus labore numquam aliquam omnis autem. Architecto.
       </p>
     </div>
   </div>
